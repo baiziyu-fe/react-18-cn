@@ -18,7 +18,7 @@
 
 React 18 将包括以下开箱即用的改进功能:
 
-- [自动合并批量 `state` 更新以此来减少渲染（hooks中）](./automatic-batching.md)
+- [自动合并批量合并 `setState` 更新以此来减少渲染（hooks中）](./automatic-batching.md)
 - [支持在 `SSR` 下使用`Suspense`](./ssr-suspense.md)
 - [修复`Suspense`的怪异行为](./suspense-behavior.md)
   
